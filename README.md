@@ -77,10 +77,29 @@ Iteradores são "preguiçosos": eles podem carregar um item de cada vez. Isso é
 Qualquer estrutura de dados que você criar pode se tornar "percorrível" e compatível com laços for e outras construções da linguagem, desde que implemente o protocolo de iteração.
 
 ✅ Conclusão
-Iterador: Um guia para percorrer coleções, um item de cada vez.
-
-Analogia chave: O controle remoto da TV.
 
 Vantagens: Código limpo, eficiência de memória e flexibilidade.
 
-Entender este conceito é fundamental para escrever um código mais idiomático, eficiente e escalável em praticamente qualquer linguagem de programação moderna.
+- Sistemas de relatórios
+- Navegação de menus e componentes gráficos (ex.: UI)
+- Sistemas de workflow e processamento de listas
+- Engines de regras de negócios
+
+Aplicações comuns
+
+- Sistemas de relatórios
+- Navegação de menus e componentes gráficos (ex.: UI)
+- Sistemas de workflow e processamento de listas
+- Engines de regras de negócios
+
+
+Resumo Final:
+
+Iterator separa a forma de acessar os elementos da coleção da sua representação interna,
+aumentando a flexibilidade e a manutenção do sistema.
+
+Pergunta de Fixação
+
+Explique como o padrão Iterator ajuda a aplicar o princípio de responsabilidade única (Single
+Responsibility Principle) em um sistema orientado a objetos.
+
