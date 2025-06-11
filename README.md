@@ -106,7 +106,7 @@ A) O Iterator garante que a coleção e o cliente que a utiliza tenham a mesma r
 
 B) O Iterator move a responsabilidade de gerenciar os dados da coleção para a classe do iterador, deixando a coleção responsável apenas por percorrer os elementos.
 
-C) O Iterator encapsula o acesso e a travessia de uma coleção em um objeto separado, permitindo que a classe da coleção se concentre apenas no gerenciamento de seus elementos e a classe do iterador se concentre apenas na lógica da travessia. ✅
+C) O Iterator encapsula o acesso e a travessia de uma coleção em um objeto separado, permitindo que a classe da coleção se concentre apenas no gerenciamento de seus elementos e a classe do iterador se concentre apenas na lógica da travessia.
 
 D) O Iterator combina as responsabilidades de armazenamento e travessia em uma única classe para otimizar o desempenho do acesso aos dados.
 
