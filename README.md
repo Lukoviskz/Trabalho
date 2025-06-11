@@ -100,6 +100,13 @@ aumentando a flexibilidade e a manutenção do sistema.
 
 Pergunta de Fixação
 
-Explique como o padrão Iterator ajuda a aplicar o princípio de responsabilidade única (Single
-Responsibility Principle) em um sistema orientado a objetos.
+Qual das seguintes afirmações melhor descreve como o padrão de projeto Iterator aplica o Princípio da Responsabilidade Única (SRP)?
+
+A) O Iterator garante que a coleção e o cliente que a utiliza tenham a mesma responsabilidade, simplificando a comunicação entre eles.
+
+B) O Iterator move a responsabilidade de gerenciar os dados da coleção para a classe do iterador, deixando a coleção responsável apenas por percorrer os elementos.
+
+C) O Iterator encapsula o acesso e a travessia de uma coleção em um objeto separado, permitindo que a classe da coleção se concentre apenas no gerenciamento de seus elementos e a classe do iterador se concentre apenas na lógica da travessia. ✅
+
+D) O Iterator combina as responsabilidades de armazenamento e travessia em uma única classe para otimizar o desempenho do acesso aos dados.
 
