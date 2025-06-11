@@ -1,7 +1,6 @@
 # Iterator
 
 🧭 Iteradores: Navegando em Coleções de Forma Simples e Eficiente
-Este repositório contém uma apresentação em formato de README sobre o conceito de Iterators (Iteradores), um padrão de design fundamental na programação moderna.
 
 ❓ O Problema: Como percorrer diferentes tipos de dados?
 Em nosso dia a dia, lidamos com dados nos mais variados formatos:
